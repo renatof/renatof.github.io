@@ -1,0 +1,12 @@
+---
+title: "PolyNet: Cost- and Performance-aware Multi-criteria Link Selection for Software-defined Edge-to-cloud Overlay Virtual Networks"
+collection: publications
+permalink: /publication/netsoft2024
+excerpt: 'This paper describes a link selection policy for virtual networks such as EdgeVPN'
+date: 2024-05-01
+venue: 'IEEE 10th International Conference on Network Softwarization (NetSoft)'
+paperurl: 'https://netsoft2024.ieee-netsoft.org/'
+citation: 'Vahid Daneshmand, Kensworth Subratie, Renato Figueiredo, “PolyNet: Cost- and Performance-aware Multi-criteria Link Selection for Software-defined Edge-to-cloud Overlay Virtual Networks”, Proceedings of IEEE NetSoft, 2024'
+---
+
+In the ever-evolving networking landscape, the demand for efficient and adaptable Virtual Private Network (VPN) solutions is growing. Software-Defined Networks (SDNs), particularly Peer-to-Peer (P2P) overlay VPNs, offer a practical approach for networks spanning various edge and cloud providers. However, existing decentralized VPNs, while resilient and scalable, typically utilize a single tunnel type and overlook data plan costs and link performance in their selection processes. This oversight can lead to cost and performance inefficiencies, especially in edge-to-cloud networks where diverse nodes have unique needs that generic solutions fail to meet effectively. Although SDN facilitates the integration of multiple link types in overlay VPNs, existing systems lack efficient policies for selecting favorable tunnels. To bridge this gap, we introduce PolyNet, a Multi-Criteria approach designed to make cost- and performance-aware policy decisions in hybrid-link overlay networks. PolyNet employs a dynamic link selection policy during runtime that evaluates latency using Vivaldi network coordinates and considers cost, and integrates with SDN-based P2P overlays to enhance link management capabilities and support multiple link types. This paper presents the design of PolyNet and evaluates its performance through simulations and prototype testing. Results demonstrate that PolyNet achieves up to a 19.1% cost reduction and a 14.1% latency improvement over traditional methods in Symphony P2P topologies. Additionally, tests with a software prototype confirm the advantages of hybrid links, showing that kernel-layer GENEVE tunnels can increase throughput by up to 8.9 times compared to user-layer Nebula and WebRTC tunnels in edge clusters.
