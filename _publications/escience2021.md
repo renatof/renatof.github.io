@@ -1,7 +1,7 @@
 ---
 title: "Edge-to-cloud Virtualized Cyberinfrastructure for Near Real-time Water Quality Forecasting in Lakes and Reservoirs"
 collection: publications
-permalink: /publication/escience2023
+permalink: /publication/escience2021
 excerpt: 'This paper describes the cyberinfrastructure underpinning the FLARE forecasting system'
 date: 2021-09-01
 venue: 'International Conference on eScience'
