@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "EEL-6892 - Virtual Computers"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/eel6892
+venue: "University of Florida, ECE Department"
+date: 2024-01-01
+location: "Gainesville, FL"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
