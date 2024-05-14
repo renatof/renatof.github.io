@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "A case for grid computing on virtual machines"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/icdcs2003
+excerpt: 'This paper introduced the approach of using VMs in Grid Computing'
+date: 2003-05-17
+venue: 'ICDCS'
+paperurl: 'https://ieeexplore.ieee.org/document/1203506'
+citation: 'R. J. Figueiredo, P. A. Dinda and J. A. B. Fortes, "A case for grid computing on virtual machines," 23rd International Conference on Distributed Computing Systems, 2003. Proceedings., Providence, RI, USA, 2003, pp. 550-559, doi: 10.1109/ICDCS.2003.1203506.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We advocate a novel approach to grid computing that is based on a combination of “classic” operating system level virtual machines (VMs) and middleware mechanisms to manage VMs in a distributed environment. The abstraction is that of dynamically instantiated and mobile VMs that are a combination of traditional OS processes (the VM monitors) and files (the VM state). We give qualitative arguments that justify our approach in terms of security, isolation, customization, legacy support and resource control, and we show quantitative results that demonstrate the feasibility of our approach front a performance perspective. Finally, we describe the middleware challenges implied by the approach and an architecture for grid computing using virtual machines.

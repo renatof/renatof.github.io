@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Renato's CV]("/files/renatof_cv.pdf)
+[Renato's CV](/files/renatof_cv.pdf)
