@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/icdcs2003
 excerpt: 'This paper introduced the approach of using VMs in Grid Computing'
 date: 2003-05-17
-venue: 'ICDCS'
+venue: 'International Conference on Distributed Computing Systems (ICDCS)'
 paperurl: 'https://ieeexplore.ieee.org/document/1203506'
 citation: 'R. J. Figueiredo, P. A. Dinda and J. A. B. Fortes, "A case for grid computing on virtual machines," 23rd International Conference on Distributed Computing Systems, 2003. Proceedings., Providence, RI, USA, 2003, pp. 550-559, doi: 10.1109/ICDCS.2003.1203506.'
 ---

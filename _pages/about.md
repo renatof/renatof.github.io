@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Renato Figueiredo's academic personal website"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,4 +13,20 @@ My research career has focused on the use of resource virtualization techniques 
 * Edge computing and virtual private networks
 * Cloud computing systems and Function-as-a-Service (FaaS) applications in ecological forecasting
 * Overlay networks and their applications in systems design
+
+Active projects
+======
+
+Principal Investigator/Co-PI:
+
+[FaaSr: cross-platform Function-as-a-Service for scientific workflows](https://faasr.io)
+
+[EdgeVPN: peer-to-peer software-defined overlay virtual private network for edge-to-cloud computing](https://edgevpn.io)
+
+[FLARE: Ecological forecasting](https://flare-forecast.org)
+
+Senior Personnel:
+
+[iDigBio: biodiversity collections database](https://idigbio.org)
+
 

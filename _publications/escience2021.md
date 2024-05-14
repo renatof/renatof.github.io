@@ -1,0 +1,12 @@
+---
+title: "Edge-to-cloud Virtualized Cyberinfrastructure for Near Real-time Water Quality Forecasting in Lakes and Reservoirs"
+collection: publications
+permalink: /publication/escience2023
+excerpt: 'This paper describes the cyberinfrastructure underpinning the FLARE forecasting system'
+date: 2021-09-01
+venue: 'International Conference on eScience'
+paperurl: 'https://ieeexplore.ieee.org/document/9582387'
+citation: 'V. Daneshmand, A. Breef-Pilz, C. Carey, Y. Jin, Y-J. Ku, K. Subratie, R. Q. Thomas, R. Figueiredo, “Edge-to-cloud Virtualized Cyberinfrastructure for Near Real-time Water Quality Forecasting in Lakes and Reservoirs”, 17th International IEEE eScience Conference, 2021'
+---
+
+The management of drinking water quality is critical to public health and can benefit from techniques and technologies that support near real-time forecasting of lake and reservoir conditions. The cyberinfrastructure (CI) needed to support forecasting has to overcome multiple challenges, which include: 1) deploying sensors at the reservoir requires the CI to extend to the network’s edge and accommodate devices with constrained network and power; 2) different lakes need different sensor modalities, deployments, and calibrations; hence, the CI needs to be flexible and customizable to accommodate various deployments; and 3) the CI requires to be accessible and usable to various stakeholders (water managers, reservoir operators, and researchers) without barriers to entry. This paper describes the CI underlying FLARE (Forecasting Lake And Reservoir Ecosystems), a novel system co-designed in an interdisciplinary manner between CI and domain scientists to address the above challenges. FLARE integrates R packages that implement the core numerical forecasting (including lake process modeling and data assimilation) with containers, overlay virtual networks, object storage, versioned storage, and event-driven Function-as-a-Service (FaaS) serverless execution. It is a flexible forecasting system that can be deployed in different modalities, including the Manual Mode suitable for end-users’ personal computers and the Workflow Mode ideal for cloud deployment. The paper reports on experimental data and lessons learned from the operational deployment of FLARE in a drinking water supply (Falling Creek Reservoir in Vinton, Virginia, USA). Experiments with a FLARE deployment quantify its edge-to-cloud virtual network performance and serverless execution in OpenWhisk deployments on both XSEDE-Jetstream and the IBM Cloud Functions FaaS system.
