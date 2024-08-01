@@ -1,0 +1,12 @@
+---
+title: "FaaSr: Cross-Platform Function-as-a-Service Serverless Scientific Workflows in R"
+collection: publications
+permalink: /publication/escience2024
+excerpt: 'This paper describes the FaaSr system for cross-platform engineless, serverlss execution of scientific workflows'
+date: 2024-09-01
+venue: 'International Conference on eScience'
+paperurl: '(coming soon)'
+citation: 'Sungjae Park, R. Quinn Thomas, Cayelan C. Carey, Austin D. Delany, Yun-Jung Ku, Mary E. Lofton, Renato J. Figueiredo, “FaaSr: Cross-Platform Function-as-a-Service Serverless Scientific Workflows in R”, 20th International IEEE eScience Conference, 2024'
+---
+
+Modern Function-as-a-Service (FaaS) cloud platforms offer great potential for supporting event-driven scientific workflows. Nonetheless, there remain barriers to adoption  by the scientific community in domains such as  environmental sciences, where R is the focal language used for the development of applications and where users are typically not well-versed with FaaS APIs. This paper describes the design and implementation of FaaSr, a novel middleware system that supports event-driven scientific workflows in R. A key novelty in FaaSr is the ability to deploy workflows across FaaS providers without the need for any managed servers for coordination. With FaaSr: 1) functions are written R; 2) the runtime environments for their execution are customizable containers; 3) functions access data in cloud storage (S3) with a familiar file-based abstraction supporting both full file put/get primitives and subsetting using the Parquet format; and 4) function invocation and workflow coordination only requires S3 cloud object storage, without relying on any dedicated, active workflow engine server or cloud-specific queues/databases. The paper reports on the functionality and performance of FaaSr for micro-benchmarks and two case studies: event-driven forecast and batch job workflows. These demonstrate the ability to deploy workflows across multiple platforms (GitHub Actions, Amazon Web Services Lambda, and the open-source OpenWhisk), without the need for dedicated coordination servers, across both cloud and edge resources. FaaSr is open-source and available as a CRAN package.
