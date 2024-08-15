@@ -14,6 +14,7 @@ My research career has focused on the use of resource virtualization techniques 
 * Cloud computing systems and Function-as-a-Service (FaaS) applications in ecological forecasting
 * Overlay networks and their applications in systems design
 
+
 Active projects
 ======
 
@@ -30,3 +31,18 @@ Senior Personnel:
 [iDigBio: biodiversity collections database](https://idigbio.org)
 
 
+Student opportunities
+======
+
+Research positions are available in my team for self-motivated, talented, passionate and hard-working graduate and undergraduate students.
+In particular, I am recruiting students who are interested in inter-disciplianry research at the interface of computer systems and applications in domains with significant potential broad impact (such as environmental sciences) to participate in one of the projects above. I am currently looking for students with interest and expertise in containerized applications and FaaS/serverless cloud computing.
+
+Preference will be given to students with a strong background in computer systems, practical experience with high-level programming languages such as Python, open-source software development in GitHub, and practical experience with Linux, virtual machines/containers and cloud platforms. Strong preference is given to students who have taken/are taking one of my courses and perform well, as it is the ideal way to establish rapport and demonstrate your potential. 
+
+If you are already an EECS OSU student interested in joining my team, please first contact me by email and include your resume/CV. You may also drop by during office hours or schedule an appointment with me.
+
+Office hours and student appointments
+======
+My office hours are currently MWF 2-3pm in KEC 4091.
+
+If you are an OSU student and would like to schedule an appointment outside regular office hours, please [check my calendar for availability](https://outlook.office365.com/owa/calendar/16092f8ffff9478c9e06dc6903a4fa40@oregonstate.edu/f123dbc947424b3eb71b126c5dd9b3f117685322235473618466/calendar.html) and send me an email with suggestions of 2-3 time slots that work for you.
