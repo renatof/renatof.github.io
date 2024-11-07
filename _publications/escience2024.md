@@ -5,7 +5,7 @@ permalink: /publication/escience2024
 excerpt: 'This paper describes the FaaSr system for cross-platform engineless, serverlss execution of scientific workflows'
 date: 2024-09-01
 venue: 'International Conference on eScience'
-paperurl: '(coming soon)'
+paperurl: 'https://ieeexplore.ieee.org/document/10678660'
 citation: 'Sungjae Park, R. Quinn Thomas, Cayelan C. Carey, Austin D. Delany, Yun-Jung Ku, Mary E. Lofton, Renato J. Figueiredo, “FaaSr: Cross-Platform Function-as-a-Service Serverless Scientific Workflows in R”, 20th International IEEE eScience Conference, 2024'
 ---
 

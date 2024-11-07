@@ -5,7 +5,7 @@ permalink: /publication/netsoft2024
 excerpt: 'This paper describes a link selection policy for virtual networks such as EdgeVPN'
 date: 2024-05-01
 venue: 'IEEE 10th International Conference on Network Softwarization (NetSoft)'
-paperurl: 'https://netsoft2024.ieee-netsoft.org/'
+paperurl: 'https://ieeexplore.ieee.org/document/10588920'
 citation: 'Vahid Daneshmand, Kensworth Subratie, Renato Figueiredo, “PolyNet: Cost- and Performance-aware Multi-criteria Link Selection for Software-defined Edge-to-cloud Overlay Virtual Networks”, Proceedings of IEEE NetSoft, 2024'
 ---
 
