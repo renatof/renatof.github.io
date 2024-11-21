@@ -30,6 +30,9 @@ Senior Personnel:
 
 [iDigBio: biodiversity collections database](https://idigbio.org)
 
+Computer Systems and HPC Research and OSU
+======
+I'm part of the newly-formed [HiPCastor](https://hipcastor-osu.github.io/hipcastor-site/) research group at OSU. Our members focus on various aspects of systems and HPC research, including distributed systems, serverless computing, computer architecture, operating systems, systems for machine learning, virtualization; and emerging inter-disciplinary applications that leverage advanced cyberinfrastructure. Like the OSU mascot beaver (genus Castor), we love to build real things (and systems).
 
 Student opportunities
 ======

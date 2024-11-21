@@ -9,6 +9,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
                
-  - title: "CV"
+  - title: "HiPCastor"
+    url: https://hipcastor-osu.github.io/hipcastor-site/    
+
+  - title: "Bio"
     url: /cv/
     

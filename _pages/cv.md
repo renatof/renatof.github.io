@@ -9,10 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-[Renato's CV](/files/renatof_cv.pdf)
 
 Bio:
-Dr. Renato J. Figueiredo is a Professor of Electrical and Computer Engineering at the University of Florida, where he leads research on distributed systems and cyberinfrastructure (CI). His main interests are in resource virtualization techniques applied across the continuum from edge to cloud computing, and their use as foundations for CI supporting interdisciplinary team-science to advance solutions to pressing issues in the environment and society, in particular freshwater resources and biodiversity. 
+Dr. Renato J. Figueiredo is a Professor in the School of Electrical Engineering and Computer Science at Oregon State University, where he leads research on distributed systems and cyberinfrastructure (CI). His main interests are in resource virtualization techniques applied across the continuum from edge to cloud computing, and their use as foundations for CI supporting interdisciplinary team-science to advance solutions to pressing issues in the environment and society, in particular freshwater resources and biodiversity. 
 
 His core work in computer systems has led to contributions to virtual machines, storage, and networks, with over 150 publications in conferences, workshops and journals that include two best paper awards and one of the 22 best papers of the ACM HPDC Symposium (selected for the conference’s 20-year celebration in 2012). In addition to publications, his work has also led to contributions in software and systems artifacts with broad applications, including his early career role as cyberinfrastructure Co-PI at UF in the NSF-funded nanoHUB nanotechnology portal hosted at Purdue (2004-2007), the In-VIGO project at UF (2002-2009), and the multi-institution FutureGrid CI (2009-2013). In a currently-funded project, his team leads the development of EdgeVPN, an open-source virtual network supported by the NSF CSSI Software Elements program supporting research in edge computing, with potential applications including AI-based inference at the edge.
 
