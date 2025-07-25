@@ -46,6 +46,4 @@ If you are already an EECS OSU student interested in joining my team, please fir
 
 Office hours and student appointments
 ======
-My office hours are currently MWF 2-3pm in KEC 4091.
-
-If you are an OSU student and would like to schedule an appointment outside regular office hours, please [check my calendar for availability](https://outlook.office365.com/owa/calendar/16092f8ffff9478c9e06dc6903a4fa40@oregonstate.edu/f123dbc947424b3eb71b126c5dd9b3f117685322235473618466/calendar.html) and send me an email with suggestions of 2-3 time slots that work for you.
+My office hours are listed in the calendar (see below) in KEC 4103. If you are an OSU student and would like to schedule an appointment outside regular office hours, please [check my calendar for availability](https://outlook.office365.com/owa/calendar/16092f8ffff9478c9e06dc6903a4fa40@oregonstate.edu/f123dbc947424b3eb71b126c5dd9b3f117685322235473618466/calendar.html) and send me an email with suggestions of 2-3 time slots that work for you.
