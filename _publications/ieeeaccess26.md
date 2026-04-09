@@ -1,0 +1,12 @@
+---
+title: "Predicting Affected Docker Images From Emerging Vulnerabilities With a Tripartite Graph"
+collection: publications
+permalink: /publication/ieeeaccess26
+excerpt: 'This paper aims to predict links from newly emerged vulnerability nodes to potentially affected images by capturing structural and semantic patterns in with a framework that models container images, installed packages, and vulnerabilities as a tripartite graph'
+date: 2026-01-15
+venue: 'IEEE Access'
+paperurl: 'https://ieeexplore.ieee.org/document/11339493'
+citation: 'S. Park, M. Lee, S. Cho, Y. Kim and R. J. Figueiredo, "Predicting Affected Docker Images From Emerging Vulnerabilities With a Tripartite Graph," in IEEE Access, vol. 14, pp. 6347-6363, 2026, doi: 10.1109/ACCESS.2026.3651857.'
+---
+
+Containerization is widely adopted across modern software systems, but it also increases exposure to a growing number of security vulnerabilities. While traditional vulnerability scanners remain effective, they face limitations in scalability and responsiveness, particularly when dealing with newly disclosed CVEs. To address these challenges, we propose a graph-based framework that models container images, installed packages, and vulnerabilities as a tripartite graph. Leveraging graph-based link prediction methods, our approach predicts links from newly emerged vulnerability nodes to potentially affected images by capturing structural and semantic patterns in the graph. To enhance generalization in cold-start scenarios, we apply BERT-based feature augmentation to encode the textual descriptions of emerging vulnerabilities, and construct pseudo-edges using cosine similarity to connect them to semantically relevant nodes. We evaluate the framework under two realistic cold-start scenarios designed to simulate varying levels of prior knowledge. Experimental results show that our method achieves a Precision@100 exceeding 0.92 even under sparse and highly imbalanced conditions, demonstrating strong predictive capability for previously unseen vulnerabilities. Moreover, it attains up to 93% of the coverage achieved by an optimal oracle ranking, enabling rapid image–CVE mapping, improved resource efficiency, and early alerting as a lightweight and scalable complement to traditional static analysis tools.
